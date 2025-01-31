@@ -8,6 +8,7 @@ max_mark = max(marks)
 min_mark = min(marks)
 avg_mark = sum(marks) / len(marks)
 
+
 print(f"Max mark: {max_mark}")
 print(f"Min mark: {min_mark}")
 print(f"Average mark: {avg_mark}")
